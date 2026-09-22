@@ -32,4 +32,4 @@ I architect and ship systems at the intersection of product reliability, AI tool
 
 ---
 
-*Engineering Leader · Denver, CO*
+*Engineering Leader · Boulder, CO*
