@@ -10,10 +10,9 @@ I architect and ship systems at the intersection of product reliability, AI tool
 
 | Project | What it is |
 |---------|-----------|
-| [damilola.tech](https://github.com/damilola-elegbede-org/damilola.tech) | Personal portfolio + AI résumé tooling — fit scoring, tailored résumé generation, cover letters, and an authenticated admin surface |
-| [alocubano.boulderfest](https://github.com/damilola-elegbede-org/alocubano.boulderfest) | Full-stack event platform for A Lo Cubano Boulder Fest (Next.js + libSQL/Turso + Vercel) |
-| [tidal-mcp](https://github.com/damilola-elegbede-org/tidal-mcp) | MCP server bridging Claude to the Tidal music platform |
-| [sabor-con-flow-dance](https://github.com/damilola-elegbede-org/sabor-con-flow-dance) | Business website for SCF Dance studio |
+| damilola.tech · private | Personal portfolio + AI résumé tooling — fit scoring, tailored résumé generation, cover letters, and an authenticated admin surface |
+| alocubano.boulderfest · private | Full-stack event platform for A Lo Cubano Boulder Fest (Next.js + libSQL/Turso + Vercel) |
+| sabor-con-flow-dance · private | Business website for SCF Dance studio |
 | [claude-config](https://github.com/damilola-elegbede-org/claude-config) · [codex-config](https://github.com/damilola-elegbede-org/codex-config) | Versioned agent configuration — skills, hooks, and settings deployed across the fleet |
 | BareClaude · private | Agentic OS: two Claude-powered agents (Clara, Dara) running engineering and life ops autonomously — launchd scheduling, a queue worker, Linear, Slack, and Telegram, with merge authority governed by policy |
 | Mandate · private | Fleet control plane — unified approval inbox, per-agent budgets, delegation authority, and an oversight dashboard |
