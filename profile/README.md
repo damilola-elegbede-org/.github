@@ -11,15 +11,15 @@ client sites, and the tooling that runs them. Most repos are private; public one
 | [codex-config](https://github.com/damilola-elegbede-org/codex-config) | The same configuration approach for Codex |
 | [pipedream-automation](https://github.com/damilola-elegbede-org/pipedream-automation) | Pipedream workflows for personal and business automation |
 
-### Private (summaries)
+### Private (architecture write-ups at [damilola-elegbede-org.github.io](https://damilola-elegbede-org.github.io))
 
 | Project | What it is |
 |---------|-----------|
-| BareClaude | Agentic OS — scheduled, budget-capped, audited agents with a human owning merge |
+| [BareClaude](https://damilola-elegbede-org.github.io/bareclaude.html) | Agentic OS — scheduled, budget-capped, audited agents with a human owning merge |
 | Mandate | Fleet control plane — approvals, budgets, oversight |
-| A Lo Cubano Boulder Fest | Event platform — ticketing and QR check-in (Vercel, Turso, Stripe) |
+| [A Lo Cubano Boulder Fest](https://damilola-elegbede-org.github.io/boulderfest.html) | Event platform — ticketing and QR check-in (Vercel, Turso, Stripe) |
 | Sabor Con Flow | Dance studio website |
-| damilola.tech | Portfolio and AI résumé tooling — [live](https://damilola.tech) |
+| [damilola.tech](https://damilola-elegbede-org.github.io/damilola-tech.html) | Portfolio and AI résumé tooling — [live](https://damilola.tech) |
 
 ### Archived
 
