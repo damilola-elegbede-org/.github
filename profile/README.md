@@ -16,15 +16,9 @@ client sites, and the tooling that runs them. Most repos are private; public one
 | Project | What it is |
 |---------|-----------|
 | [BareClaude](https://damilola-elegbede-org.github.io/bareclaude.html) | Agentic OS — scheduled, budget-capped, audited agents with a human owning merge |
-| Mandate | Fleet control plane — approvals, budgets, oversight |
 | [A Lo Cubano Boulder Fest](https://damilola-elegbede-org.github.io/boulderfest.html) | Event platform — ticketing and QR check-in (Vercel, Turso, Stripe) |
-| Sabor Con Flow | Dance studio website |
+| [Sabor Con Flow](https://damilola-elegbede-org.github.io/scf.html) | Dance studio site — Next.js, moderated testimonials, rate-limited forms |
 | [damilola.tech](https://damilola-elegbede-org.github.io/damilola-tech.html) | Portfolio and AI résumé tooling — [live](https://damilola.tech) |
-
-### Archived
-
-[tidal-mcp](https://github.com/damilola-elegbede-org/tidal-mcp) (MCP server for Tidal) ·
-[scf-social-media](https://github.com/damilola-elegbede-org/scf-social-media)
 
 ---
 Contact: [damilola.tech](https://damilola.tech)
