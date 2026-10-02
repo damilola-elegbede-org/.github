@@ -17,7 +17,7 @@ client sites, and the tooling that runs them. Most repos are private; public one
 |---------|-----------|
 | BareClaude | Agentic OS — scheduled, budget-capped, audited agents with a human owning merge |
 | Mandate | Fleet control plane — approvals, budgets, oversight |
-| A Lo Cubano Boulder Fest | Event platform (Next.js, Turso, Vercel) |
+| A Lo Cubano Boulder Fest | Event platform — ticketing and QR check-in (Vercel, Turso, Stripe) |
 | Sabor Con Flow | Dance studio website |
 | damilola.tech | Portfolio and AI résumé tooling — [live](https://damilola.tech) |
 
